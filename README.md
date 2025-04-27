@@ -1,7 +1,4 @@
-<!DOCTYPE html><html>
-<head>
-<title>My Clothing Shop </title>
-</head>
+<head>Clothing Shop</head>
 <body>
 <h1>Welcome to My  Page</h1>
     <p> We have all kinds of different of Clothing for sell</p>
