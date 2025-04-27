@@ -1,5 +1,3 @@
-# MyClothingShop
-
 <!DOCTYPE html><html>
 <head>
     <title>My Clothing Shop </title>
